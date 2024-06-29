@@ -1,0 +1,4 @@
+name: AntiEndermanGhastGrief
+version: '${project.version}'
+main: me.lucyn.antiendermanghastgrief.AntiEndermanGhastGrief
+api-version: '1.21'
